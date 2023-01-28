@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IMDb Top 250 Movies", "IMDb Top 250 Movies\IMDb Top 250 Movies.pyproj", "{234D8BFD-5595-4D27-9D90-29D3A45C8F58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234D8BFD-5595-4D27-9D90-29D3A45C8F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234D8BFD-5595-4D27-9D90-29D3A45C8F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B78A098-B3D7-4357-B465-6C2BF36E4FB4}
+	EndGlobalSection
+EndGlobal
